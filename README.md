@@ -8,7 +8,7 @@
 
 
 # Desafios
-- [Primeiros passos com JavaScript](desafio1-1/primeiros-passos-com-js.md)
-- [Lidando com objetos e vetores](desafio1-2/desafio1-2.md)
-- [Funções e estruturas de repetição](desafio1-3/desafio1-3.md)
-- [Aplicação: Operações bancárias](desafio1-4/desafio1-4.md)
+- [Primeiros passos com JavaScript](challenge1-1/README.md)
+- [Lidando com objetos e vetores](challenge1-2/README.md)
+- [Funções e estruturas de repetição](challenge1-3/README.md)
+- [Aplicação: Operações bancárias](challenge1-4/README.md)
