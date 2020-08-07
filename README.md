@@ -7,8 +7,8 @@
 </h3>
 
 
-# Desafios
-- [Primeiros passos com JavaScript](challenge1-1/README.md)
-- [Lidando com objetos e vetores](challenge1-2/README.md)
-- [Funções e estruturas de repetição](challenge1-3/README.md)
-- [Aplicação: Operações bancárias](challenge1-4/README.md)
+# Challenges
+- [Primeiros passos com JavaScript](challenge1-1/)
+- [Lidando com objetos e vetores](challenge1-2/)
+- [Funções e estruturas de repetição](challenge1-3/)
+- [Aplicação: Operações bancárias](challenge1-4/)
